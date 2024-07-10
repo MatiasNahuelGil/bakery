@@ -1,0 +1,8 @@
+// Bloques parametrizados
+
+@mixin enlargeCircle($enlarge-radius){
+    width: $enlarge-radius;
+    height: $enlarge-radius;
+}
+
+
